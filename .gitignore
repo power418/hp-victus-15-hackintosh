@@ -1,0 +1,47 @@
+# ---------- macOS ----------
+.DS_Store
+**/.DS_Store
+._*
+**/._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.TemporaryItems
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDouble
+.LSOverride
+
+# ---------- Windows ----------
+Thumbs.db
+**/Thumbs.db
+ehthumbs.db
+Desktop.ini
+**/Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# ---------- Linux ----------
+*~
+.content
+.contentFlavour
+.contentVisibility
+**/.content
+**/.contentFlavour
+**/.contentVisibility
+
+# ---------- Editor / IDE ----------
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*~.bak
+*.orig
+*.rej
+
+# ---------- Misc / sampah umum ----------
+*.log
+*.tmp
+*.temp
+*.bak
